@@ -23,13 +23,15 @@ free to put it in the queue.
 
 * Measuring Neural Net Robustness with Constraints, Bastani et. al. 2016
 
+* Robust Optimization for Non-Convex Objectives, Chen et. al. NIPS 2017.
+
 ### Intepretability
 
 * Write a summary of WHI 2018 from ICML. 
 
 * Discovering interpretable representations for both deep generative and discriminative models
 
-* Interpretability via Model Extraction.
+* Interpretability via Model Extraction. Bastani et. al.
 
 
 ### Fairness
@@ -47,6 +49,10 @@ free to put it in the queue.
 
 ### Security, Privacy, Cryptography, and ML
 * Blind Justice: Fairness with Encrypted Sensitive Attributes
+
+* Model Reconstruction from Model Explanations 
+
+* Certified Defenses for Data Poisoning Attacks
 
 ### Differential Privacy and Adaptive analysis
 
