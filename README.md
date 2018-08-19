@@ -21,14 +21,33 @@ free to put it in the queue.
 
 * A dual approach to scalable verification of deep networks,  Dvijotham et. al. 2018
 
-* Measuring Neural Net Robustness with Constraints, Bastani et. al.
+* Measuring Neural Net Robustness with Constraints, Bastani et. al. 2016
 
 ### Intepretability
 
-### Differential Privacy and Adaptive analysis
+* Write a summary of WHI 2018 from ICML. 
+
+* Discovering interpretable representations for both deep generative and discriminative models
+
+* Interpretability via Model Extraction.
+
 
 ### Fairness
+*  A Unified Approach to Quantifying Algorithmic Unfairness: Measuring Individual & Group Unfairness via Inequality Indices
+
+* Human perceptions of fairness in algorithmic decision making: A case study of criminal risk prediction
+
+* Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness
+
+* Write a summary of FAT/ML from ICML 2018.
+
+* Multiaccuracy: Black-Box Post-Processing for Fairness in Classification
 
 ### Debugging ML Systems
+
+### Security, Privacy, Cryptography, and ML
+* Blind Justice: Fairness with Encrypted Sensitive Attributes
+
+### Differential Privacy and Adaptive analysis
 
 ### In the queue
