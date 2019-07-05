@@ -8,10 +8,8 @@ fairness properties, and or interpretability.
 
 ### DP + Fairness (Badasaryan & Shmatikov, 2019 and Jagielski et. al. 2019)
 
-<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="700"> 
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="800"> 
 
-
-<img src="https://raw.githubusercontent.com/adebayoj/papers/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="700"> 
 
 Saliency methods have emerged as a popular tool to highlight
 features in an input deemed relevant for the prediction of a 
