@@ -59,8 +59,6 @@ Interpretability here will mean local attribution around a single test example. 
 
 Trains differentially private Local linear maps. The weights on these maps per class can then be used as per example interpretation.
 
-<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/jagielski_empirical_figure.png" width="800"> 
-
 <img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/harder_eps_vs_accuracy.png" width="800">
 
 
