@@ -37,12 +37,12 @@ DP.
 
 Post-Processing vs In-Processing to satisfy fairness
 
-# Running time tradeoffs for Post-Processing vs In-Processing to satisfy fairness
+##### Running time tradeoffs for Post-Processing vs In-Processing to satisfy fairness
 
 <img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/running_times_jagielski.png" width="800"> 
 
 
-# Empirical Tests on Communities and Crime Dataset
+#### Empirical Tests on Communities and Crime Dataset
 
 <img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/jagielski_empirical_figure.png" width="800"> 
 
