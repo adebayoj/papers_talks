@@ -8,7 +8,7 @@ fairness properties, and or interpretability.
 
 ### DP + Fairness (Badasaryan & Shmatikov, 2019 and Jagielski et. al. 2019)
 
-<img src="https://github.com/adebayoj/papers/blob/master/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="700"> 
+<img src="https://raw.githubusercontent.com/adebayoj/papers/blob/master/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="700"> 
 
 
 <img src="https://raw.githubusercontent.com/adebayoj/papers/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="700"> 
