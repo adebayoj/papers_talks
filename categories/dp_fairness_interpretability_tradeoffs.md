@@ -59,9 +59,11 @@ Interpretability here will mean local attribution around a single test example. 
 
 Trains differentially private Local linear maps. The weights on these maps per class can then be used as per example interpretation.
 
-<img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/dp_reading_group_summer_2019/harder_eps_vs_accuracy.png" width="700">
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/jagielski_empirical_figure.png" width="800"> 
+
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/doc/figures/dp_reading_group_summer_2019/harder_eps_vs_accuracy.png" width="800">
 
 
-<img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/dp_reading_group_summer_2019/harder_filter_weights.png" width="700">
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/doc/figures/dp_reading_group_summer_2019/harder_filter_weights.png" width="800">
 
-<img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/dp_reading_group_summer_2019/harder_more_filter_weights_fashion_mnist.png" width="700">
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/doc/figures/dp_reading_group_summer_2019/harder_more_filter_weights_fashion_mnist.png" width="800">
