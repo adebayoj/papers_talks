@@ -35,14 +35,33 @@ DP.
 
 #### Jagielski et. al. 2019
 
-Post-Processing vs In-Processing
+Post-Processing vs In-Processing to satisfy fairness
 
-<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/hyperparams_bs_fairness.png" width="800"> 
+# Running time tradeoffs for Post-Processing vs In-Processing to satisfy fairness
+
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/running_times_jagielski.png" width="800"> 
+
+
+# Empirical Tests on Communities and Crime Dataset
+
+<img src="https://raw.githubusercontent.com/adebayoj/papers/master/figures/dp_reading_group_summer_2019/jagielski_empirical_figure.png" width="800"> 
 
  
 
 ### Interpretability & CNNS.
+
+Interpretability here will mean local attribution around a single test example. This is not the only form of interpretability, it is just the popular one for Deep CNNs these days. Significant debate on whether this is even the right way to think about interpretability.
+
 <img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/saliency_methods_and_edge_detector.png" width="700">
 
 
 ### DP + Interpretability (Harder, 2019)
+
+Trains differentially private Local linear maps. The weights on these maps per class can then be used as per example interpretation.
+
+<img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/harder_eps_vs_accuracy.png" width="700">
+
+
+<img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/harder_filter_weights.png" width="700">
+
+<img src="https://raw.githubusercontent.com/adebayoj/sanity_checks_saliency/master/doc/figures/harder_more_filter_weights_fashion_mnist.png" width="700">
